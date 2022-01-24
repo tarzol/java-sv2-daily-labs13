@@ -1,0 +1,4 @@
+A001 sör;bor;cukor;olaj
+A002 sör;cukor;olaj;áfonya
+A003 cukor;olaj;vaj
+A004 sör;bor;cukor;olaj;vaj;áfonya
